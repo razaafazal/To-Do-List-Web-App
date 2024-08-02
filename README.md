@@ -14,9 +14,9 @@ You can view the live version of this application at xx.com.
 
 # Installation
 To run the To-Do List Web App locally:
- 1.Clone the repository:
+  1.Clone the repository:
    git clone https://github.com/razaafazal/to-do-list-web-app.git
- 2.Navigate to the project directory:
+  2.Navigate to the project directory:
    cd to-do-list-web-app
   3.Open index.html in your preferred web browser:
     Simply double-click the index.html file, or right-click and choose "Open with" to select 
