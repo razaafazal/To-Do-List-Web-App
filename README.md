@@ -3,11 +3,10 @@
 Welcome to the To-Do List Web App repository! This project is a simple, yet effective to-do list application built using HTML, CSS, and JavaScript. It allows users to create, manage, and keep track of their tasks with a clean and user-friendly interface.
 
 # Features
-Task Management: Add, edit, and delete tasks.
-Task Status: Mark tasks as complete or incomplete.
-Persistent Storage: Tasks are saved in the browser's local storage, so they persist across page reloads.
-Responsive Design: Optimized for both desktop and mobile devices.
-User-Friendly Interface: Easy to navigate and intuitive to use.
+- Task Management: Add, edit, and delete tasks.
+- Persistent Storage: Tasks are saved in the browser's local storage, so they persist across page reloads.
+- Responsive Design: Optimized for both desktop and mobile devices.
+- User-Friendly Interface: Easy to navigate and intuitive to use.
 
 # Demo
 You can view the live version of this application at https://razaafazal.github.io/To-Do-List-Web-App/
@@ -31,7 +30,7 @@ To run the To-Do List Web App locally:
 # Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements. All contributions are welcome!
 
-# License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
